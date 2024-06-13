@@ -63,3 +63,6 @@ dump.rdb
 
 # Environment variables file
 .env
+
+
+.gitignore
